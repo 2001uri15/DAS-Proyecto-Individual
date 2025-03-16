@@ -11,7 +11,7 @@ Desarrollo Avanzado de Software / Grado en Ingeniería Informática de Gestión 
 
 | Recurso                  | Enlace |
 |--------------------------|--------|
-| 📄 Ver documento (PDF)  | [Abrir PDF](#) |
-| 📥 Descargar APK        | [Descargar APK](#) |
+| 📄 Ver documento (PDF)  | [Abrir PDF](https://github.com/2001uri15/DAS-Proyecto-Individual/blob/main/DAS_Documentaci%C3%B3n_01.pdf) |
+| 📥 Descargar APK        | [Descargar APK](https://github.com/2001uri15/DAS-Proyecto-Individual/blob/main/Garatu.apk) |
 
 
